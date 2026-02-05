@@ -1,5 +1,5 @@
 <h1 align="center">Hola a todos! 👋 Soy Sara García Castañeda</h1>
-Soy Data Scientist en formación. Actualmente, acabando el bootcamp que complementa mi formación en Estadística con nuevas herramientas como Python o SQL, preparando los primeros proyectos de Machine Learning y experimentando con todo lo aprendido en otros proyectos. Podréis verlos en mi repositorio.
+Soy <b>Data Scientist</b> en formación. Actualmente, acabando el bootcamp que complementa mi formación en Estadística con nuevas herramientas como Python o SQL, preparando los primeros proyectos de Machine Learning y experimentando con todo lo aprendido en otros proyectos. Podréis verlos en mi repositorio.
 </p>
 Durante más de 18 años trabajando en el sector de alimentación, he adquirido una experiencia en análisis de datos, gestión de bases de datos, coordinación logística, soporte al equipo comercial y diferentes proyectos de marketing. También me ha permitido desarrollar una amplia gama de habilidades que me permiten adaptarme a entornos cambiantes y abordar desafíos complejos. 
 
